@@ -1,0 +1,15 @@
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/Observer.deps.json
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/Observer.dll
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/ref/Observer.dll
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/bin/Debug/net5.0/Observer.pdb
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.csproj.AssemblyReference.cache
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.dll
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/ref/Observer.dll
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.pdb
+/Users/macos/Projects/Patterns/Patterns/Observer/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache
