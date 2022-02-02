@@ -1,0 +1,15 @@
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ChainOfResponsibility.deps.json
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ChainOfResponsibility.runtimeconfig.json
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ChainOfResponsibility.runtimeconfig.dev.json
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ChainOfResponsibility.dll
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ref/ChainOfResponsibility.dll
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/bin/Debug/net5.0/ChainOfResponsibility.pdb
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.csproj.AssemblyReference.cache
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.AssemblyInfoInputs.cache
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.AssemblyInfo.cs
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.csproj.CoreCompileInputs.cache
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.dll
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ref/ChainOfResponsibility.dll
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.pdb
+/Users/macos/Projects/Patterns/Patterns/ChainOfResponsibility/ChainOfResponsibility/obj/Debug/net5.0/ChainOfResponsibility.genruntimeconfig.cache
