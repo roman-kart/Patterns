@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4F3CC82B-C333-4DE5-BE1B-330A55A8B97F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorPattern/ErrorDecorator.cs">
+    <Files>
+      <File FileName="DecoratorPattern/Program.cs" Line="14" Column="35" />
+      <File FileName="DecoratorPattern/IMessage.cs" />
+      <File FileName="DecoratorPattern/Message.cs" />
+      <File FileName="DecoratorPattern/SimpleMessage.cs" />
+      <File FileName="DecoratorPattern/AlertMessage.cs" />
+      <File FileName="DecoratorPattern/MessageDecorator.cs" />
+      <File FileName="DecoratorPattern/NormalDecorator.cs" />
+      <File FileName="DecoratorPattern/ErrorDecorator.cs" Line="3" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecoratorPattern" expanded="True" selected="True">
+            <Node name="DecoratorPattern" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DecoratorPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

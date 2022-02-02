@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjoTK/WB7tV+XhR+jqLIDDpJADriNtO4Y0FPf1s9BxjVJANihJ/xuYzq+Wks8FxDrq01m3BHVWL330vl9HLdbA==",
+  "success": true,
+  "projectFilePath": "/Users/macos/Projects/Patterns/DecoratorPattern/DecoratorPattern/DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/macos/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/macos/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/macos/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
