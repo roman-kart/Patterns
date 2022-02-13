@@ -16,8 +16,8 @@ namespace Mediator
     {
         public void GetThanShowProducts()
         {
-            var getter = new ProductsOperations();
-            var demonstrator = new ProductsShow();
+            IGetProducts getter = new ProductsOperations();
+            IShowProducts demonstrator = new ProductsShow();
 
             var products = getter.GetProducts();
             demonstrator.ShowProducts(products);
