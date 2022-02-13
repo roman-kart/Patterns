@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\Mediator.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\Mediator.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\Mediator.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\ref\Mediator.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\bin\Debug\net6.0\Mediator.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\ref\Mediator.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
