@@ -1,0 +1,32 @@
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.exe
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.deps.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.runtimeconfig.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.runtimeconfig.dev.json
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ref\ObserverPatternInDotNET.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.pdb
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.csproj.AssemblyReference.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.AssemblyInfoInputs.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.AssemblyInfo.cs
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.csproj.CoreCompileInputs.cache
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ref\ObserverPatternInDotNET.dll
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.pdb
+Z:\2021_2022 учебный год\31ИС\Учебная практика\Карташев\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.runtimeconfig.dev.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ref\ObserverPatternInDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\bin\Debug\net5.0\ObserverPatternInDotNET.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ref\ObserverPatternInDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\ObserverPatternInDotNET\obj\Debug\net5.0\ObserverPatternInDotNET.genruntimeconfig.cache

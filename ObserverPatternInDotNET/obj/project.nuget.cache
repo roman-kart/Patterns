@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yba9uvS9ZVWEV1+OFARkc3xWg1BENnWEEiD8BUed4zLlYJRtlNl4tu9SFCOFYXjevzHAtwhKAjZi4yPSgePHIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stupid_Guy\\Documents\\GitHub\\Patterns\\ObserverPatternInDotNET\\ObserverPatternInDotNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stupid_Guy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
