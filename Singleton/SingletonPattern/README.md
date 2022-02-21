@@ -1,3 +1,3 @@
 # Singleton
-## Выбор реализации паттерна Singleton
+## Р’С‹Р±РѕСЂ СЂРµР°Р»РёР·Р°С†РёРё РїР°С‚С‚РµСЂРЅР° Singleton  
 ![Select singleton realization](./selectPattern.png)
