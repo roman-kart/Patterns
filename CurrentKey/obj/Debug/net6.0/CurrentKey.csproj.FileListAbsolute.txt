@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\CurrentKey.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\CurrentKey.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\CurrentKey.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\CurrentKey.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\ref\CurrentKey.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\bin\Debug\net6.0\CurrentKey.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\ref\CurrentKey.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\CurrentKey\obj\Debug\net6.0\CurrentKey.genruntimeconfig.cache
