@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\bin\Debug\net6.0\DecoratorPatternDotNET.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\bin\Debug\net6.0\DecoratorPatternDotNET.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\bin\Debug\net6.0\DecoratorPatternDotNET.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\bin\Debug\net6.0\DecoratorPatternDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\bin\Debug\net6.0\DecoratorPatternDotNET.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\refint\DecoratorPatternDotNET.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\DecoratorPatternDotNET.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\DecoratorPatternDotNET\obj\Debug\net6.0\ref\DecoratorPatternDotNET.dll
