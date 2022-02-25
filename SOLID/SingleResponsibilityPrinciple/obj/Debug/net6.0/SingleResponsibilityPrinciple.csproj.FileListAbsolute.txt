@@ -1,0 +1,15 @@
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SingleResponsibilityPrinciple.dll
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Stupid_Guy\Documents\GitHub\Patterns\SOLID\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
